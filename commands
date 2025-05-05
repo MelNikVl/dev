@@ -1,0 +1,3 @@
+vprofile-up
+/
+alias vprofile-up='cd /c/DEVOPS/vprofile-project/vagrant/Manual_provisioning_WinMacIntel && vagrant up'
